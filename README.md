@@ -1,2 +1,3 @@
 # myfirstrepo
 haturepo
+このリポジトリはGitとGithubのハンズオンでございます。ございますよ。
